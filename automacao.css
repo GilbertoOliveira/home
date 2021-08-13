@@ -128,7 +128,7 @@ div.rele4_desligado {
 
 #div3 {
 	position: absolute;
-	right: 85px;
+	right: 550px;
 	top: 355px;
     border-radius: 25px;
     border: 2px solid #000000;
@@ -138,7 +138,7 @@ div.rele4_desligado {
 
 #div4 {
 	position: absolute;
-	right: 85px;
+	right: 735px;
 	top: 355px;
     border-radius: 25px;
     border: 2px solid #000000;
@@ -223,7 +223,7 @@ div.rele4_desligado {
 #botao_3{
     position: absolute;
     right: 230px;
-    top: 417px;
+    top: 617px;
 	 width: 200px;
     height: 256px;
 }
@@ -261,7 +261,7 @@ div.rele4_desligado {
 #botao_4{
     position: absolute;
     right: 230px;
-    top: 417px;
+    top: 817px;
 	 width: 200px;
     height: 256px;
 }
