@@ -220,6 +220,14 @@ div.rele4_desligado {
 	top:1px;
 }
 
+#botao_3{
+    position: absolute;
+    right: 230px;
+    top: 417px;
+	 width: 200px;
+    height: 256px;
+}
+
 .botao_3 {
 	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
 	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
@@ -247,6 +255,15 @@ div.rele4_desligado {
 }.botao_3:active {
 	position:relative;
 	top:1px;
+}
+
+
+#botao_4{
+    position: absolute;
+    right: 230px;
+    top: 417px;
+	 width: 200px;
+    height: 256px;
 }
 
 .botao_4 {
